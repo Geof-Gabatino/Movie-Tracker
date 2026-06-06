@@ -5,9 +5,6 @@ int main() {
     cout << "Hello, World!" << endl;
     cout << "renz Pogi" << endl;
     cout << "this is a sample initialization" << endl
-
-        // Added comment on github browser for testing only
-        // time is 4:39. This'll be an example on how to use git pull at VS Studio
-        
+// This is a sample comment to demonstrate the git pull function before coding at VS Studio        
     return 0;
     
