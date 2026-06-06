@@ -2,9 +2,10 @@
 using namespace std;
 
 int main() {
-    cout << "Hello, World!" << endl;
-    cout << "renz Pogi" << endl;
-    cout << "this is a sample initialization" << endl;
-    cout << "Time is 5:07" endl;
+    cout << "Test line 1" << endl;
+    cout << "Test line 2" << endl;
+    cout << "Test line 3" << endl;
+
+    cout << "Test push to github" << endl;
         return 0;
     
