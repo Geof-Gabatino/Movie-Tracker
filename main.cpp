@@ -2,22 +2,17 @@
 using namespace std;
 
 int main() {
-    cout << "Test line 1" << endl;
-    cout << "Test line 2" << endl;
-    cout << "Test line 3" << endl;
 
-    cout << "Test push to github" << endl;
+    // walang na pull kasi up to date naman yung local repository, kaya walang conflict at pwede na mag code agad.
+    // start coding inangyan
 
-    // start coding after initiating the git pull command to ensure the local repository is up to date with the remote repository before making any changes.
+    cout << "pang ilang test ko na to langya" << endl;
+    cout << "inamodified ko na to" << endl;
 
-    cout << "Test line 4" << endl;
-    cout << "Test line 5" << endl;
-    cout << "Test line 6" << endl;
-    cout << "Test line 7" << endl;
-    cout << "Test line 8" << endl;
-    cout << "Test line 9" << endl;
-    cout << "Test line 10" << endl;
+    cout << "waaaaaaaaaaaaaaaaaah" << endl;
 
+    //Ctrl + s to save the file. 
+    // after isave lalabas yung commit button
     return 0;
 }
     
