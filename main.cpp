@@ -3,16 +3,16 @@ using namespace std;
 
 int main() {
 
-    // walang na pull kasi up to date naman yung local repository, kaya walang conflict at pwede na mag code agad.
-    // start coding inangyan
+    cout << "Today is June 8, 2026" << endl;
+    cout << "Today I'll be testing kung gagana ulit since paranoid ako sa mga previous tests ko" << endl; 
 
-    cout << "pang ilang test ko na to langya" << endl;
-    cout << "inamodified ko na to" << endl;
-
-    cout << "waaaaaaaaaaaaaaaaaah" << endl;
-
-    //Ctrl + s to save the file. 
-    // after isave lalabas yung commit button
+    //Renz Llaneta Catindig
+    //Joshua Elry Benuya Escueta
+    //Geof Ice Bula Gabatino
+    //Jamea Lagrisola Gamol
+    //Carmelo Anthony Palmones Salamat
+    //Triza Mae Capellan Manuel
+    
     return 0;
 }
     
