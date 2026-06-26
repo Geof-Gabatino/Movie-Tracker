@@ -1,0 +1,20 @@
+5|Small Caramel Popcorn|Food|30|49
+7|Medium Caramel Popcorn|Food|40|50
+8|Large Caramel Popcorn|Food|50|49
+9|Small Salted Popcorn|Food|30|50
+10|Medium Salted Popcorn|Food|40|49
+11|Large Salted Popcorn|Food|50|50
+12|Small BBQ Popcorn|Food|30|50
+13|Medium BBQ Popcorn|Food|40|50
+14|Large BBQ Popcorn|Food|50|50
+15|Large Coke|Beverage|30|46
+16|Large Pepsi|Beverage|30|50
+17|Large Root Beer|Beverage|30|50
+18|Large Royal|Beverage|30|50
+19|Large Bottled Water|Beverage|20|50
+20|Large Nachos|Food|50|50
+21|Large Hotdogs|Food|40|50
+22|Large Corndogs|Food|40|50
+23|Mentos|Candy|2|88
+24|Potchi|Candy|1|95
+25|Doublemint|Candy|1|94

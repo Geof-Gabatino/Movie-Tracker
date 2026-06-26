@@ -1,0 +1,16 @@
+1|6|Interstellar|Sci-Fi|5|400|2000|2026-06-22|N/A|Cash
+3|7|Deadpool 2|Action|1|400|400|2026-06-22|N/A|Cash
+4|7|Deadpool 2|Action|4|400|1600|2026-06-22|N/A|Cash
+5|7|Deadpool 2|Action|2|400|800|2026-06-22|N/A|Cash
+7|6|Interstellar|Sci-Fi|1|400|400|2026-06-22|N/A|Cash
+8|9|Toy Story 5|Animation / Family|5|439|2195|2026-06-23|N/A|Cash
+9|9|Toy Story 5|Animation / Family|5|439|1756|2026-06-24|N/A|Cash
+10|3|Back to the Future|Sci-Fi|4|420|1680|2026-06-24|N/A|Cash
+11|3|Back to the Future|Sci-Fi|1|420|294|2026-06-24|N/A|Cash
+13|9|Toy Story 5|Animation / Family|2|430|688|2026-06-24|N/A|Cash
+14|3|Back to the Future|Sci-Fi|8|420|2352|2026-06-24|N/A|Cash
+15|4|Drags to Riches|Comedy|2|400|800|2026-06-24|N/A|Cash
+16|6|The Eyes|Thriller|3|400|960|2026-06-24|N/A|Cash
+17|3|Back to the Future|Sci-Fi|1|420|336|2026-06-24|N/A|Cash
+18|4|Drags to Riches|Comedy|4|400|1280|2026-06-24 11:00:24||Cash
+19|2|Supergirl|Action|12|450|4320|2026-06-26 09:16:21||
